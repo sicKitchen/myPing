@@ -43,6 +43,7 @@ sudo ./myPING www.google.com
 ```
 
 ## Authors
-* **Spencer Kitchen** 
+* **Spencer Kitchen**
+* email: sckitchen.dev@gmail.com
 
 
